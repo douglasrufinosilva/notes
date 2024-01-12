@@ -9,3 +9,5 @@ app.use(routes)
 
 const PORT = 3003
 app.listen(PORT, () => console.log(`Server is running on Port ${PORT}`))
+
+const a = 5
